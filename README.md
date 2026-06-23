@@ -1,5 +1,5 @@
 # Digital Journal App
-
+INTERN ID: CITS1980
 A simple journal application built with Node.js, Express, PostgreSQL and EJS.
 
 ## Features
